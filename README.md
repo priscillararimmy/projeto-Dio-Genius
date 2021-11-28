@@ -18,13 +18,6 @@ Nesse projeto, o desafio será criar um jogo Genius utilizando apenas HTML, CSS 
 
 Tem como base o Jogo Genius muito popular na década de 1980. O brinquedo buscava estimular a memorização de cores e sons. Com um formato semelhante a um OVNI, possuía botões coloridos que emitiam sons harmônicos e se iluminavam em seqüência. Cabia aos jogadores repetir o processo sem errar.
 
-# Melhorias implementadas
-
-- Documentei a lógica no javascript
-- Coloquei som quando o usuário perde
-- Mudei o background
-- Coloquei título
-
 # Como jogar
 
 Para iniciar o jogo basta executar o arquivo index.html em um navegador de internet a partir de uma cópia do repositório em um diretório local.
