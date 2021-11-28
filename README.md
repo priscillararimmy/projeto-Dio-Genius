@@ -29,16 +29,4 @@ Tem como base o Jogo Genius muito popular na década de 1980. O brinquedo buscav
 
 Para iniciar o jogo basta executar o arquivo index.html em um navegador de internet a partir de uma cópia do repositório em um diretório local.
 
-# Exemplos de telas
 
-## Tela inicial
-
-<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/Test-screens/Tela%20inicial.jpg" />
-
-## Tela de acerto
-
-<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/Test-screens/Tela%20acertou.jpg" />
-
-## Tela de erro
-
-<img src="https://github.com/rdeconti/Projeto-DIO-HTML-Jogo-Memoria-Genius/blob/main/Test-screens/Tela%20errou.jpg" />
